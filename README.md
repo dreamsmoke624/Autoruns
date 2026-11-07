@@ -216,4 +216,4 @@ Autoruns is available as a complete free version with all features and updates i
 Take control of your Windows startup process today! Download the **full version of Autoruns** for free and ensure your system runs smoothly.
 
 ---
-**Last updated:** 2026-11-07 08:14:24 UTC
+**Last updated:** 2026-11-07 15:22:12 UTC
